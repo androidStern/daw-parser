@@ -1,0 +1,42 @@
+{
+  "name": "daw-parser",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/andrewstern/daw-parser",
+  "author": {
+    "name": "andrewstern",
+    "email": "andrew.martin.stern@gmail.com",
+    "url": "https://github.com/androidStern/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewstern/daw-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewstern/daw-parser/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/andrewstern/daw-parser/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/daw-parser",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-simple-mocha": "~0.4",
+    "mocha": "*",
+    "sinon": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "grunt": "~0.4.4"
+  },
+  "keywords": []
+}

@@ -36,7 +36,12 @@
     "sinon": "*",
     "chai": "*",
     "sinon-chai": "*",
-    "grunt": "~0.4.4"
+    "grunt": "~0.4.4",
+    "sax": "~0.6.0",
+    "xmltojson": "~1.1.0",
+    "gulp-xml2json": "~0.1.4",
+    "gulp": "~3.6.2",
+    "xml-stream": "~0.4.4"
   },
   "keywords": []
 }
